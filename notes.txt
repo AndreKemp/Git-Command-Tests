@@ -1,4 +1,7 @@
 To activate account for computer:  https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
+terminal:    nano ~/.bash_profile       -> to access bash_profile
+                    source~/.bash_profile     -> switch to bash_profile  
+
 
 Commands:
     clone project  from GitHub:
@@ -31,4 +34,8 @@ Branches:
     move to branch
         'git checkout branchName'
         
-    
+    pull main and merge into current branch on computer
+        'git checkout main'
+        'git pull'
+        'git checkout branchName'
+        'git merge main'
