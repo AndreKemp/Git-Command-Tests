@@ -1,0 +1,8 @@
+Commands:
+    clone project  from GitHub:
+        'git clone https://github.com/AndreKemp/Git-Command-Tests.git'
+    
+    git status of current file: 
+        'git status' 
+        
+    
