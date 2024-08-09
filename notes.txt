@@ -5,4 +5,12 @@ Commands:
     git status of current file: 
         'git status' 
         
-    
+    add file to be commited:
+        'git add filename.txt' 
+        'git .'                                 (add all files to be committed)      
+                
+    create commit message:
+        'git commit -m "This is the message"'
+        
+    push to GitHub:         (use token to authenticate)
+        'git push'
