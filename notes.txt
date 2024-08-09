@@ -1,3 +1,5 @@
+To activate account for computer:  https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git
+
 Commands:
     clone project  from GitHub:
         'git clone https://github.com/AndreKemp/Git-Command-Tests.git'
@@ -14,3 +16,19 @@ Commands:
         
     push to GitHub:         (use token to authenticate)
         'git push'
+        
+    pull latest commits from GitHub to you
+        'git pull'
+        
+Branches:
+
+    check branches
+        'git branch'
+        
+    create new branch
+        'git branch newBranchName'
+        
+    move to branch
+        'git checkout branchName'
+        
+    
